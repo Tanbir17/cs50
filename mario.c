@@ -26,7 +26,7 @@ int main(void)
                 printf("#");
         }
 
-        printf("  "); //Add 2 spaces in middle
+        printf("  "); //Add 2 spaces in the middle
 
         //Right side of pyramid
         for (int right = 0; right < height; right++) 
